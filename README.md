@@ -11,3 +11,7 @@ npm (Node Package Manager) <br><br>
 npm install (install all dependencies) <br>
 npm run dev (run website locally) <br>
 npm run build (build website and make it ready for deployment)
+<br><br>
+
+**URL to the website:** <br>
+https://gsap-motion-website.netlify.app/
